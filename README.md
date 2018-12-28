@@ -1,7 +1,7 @@
 # Project Euler solutions
 
 This repository will consist of my solutions for
-[https://projecteuler.net/about][Project Euler]. Each problem has its
+[Project Euler](https://projecteuler.net/about). Each problem has its
 own folder numbered according to its standing in the Project. I first solve it using simple solution, then improve it
 using suggested solution from Project Euler.
 
